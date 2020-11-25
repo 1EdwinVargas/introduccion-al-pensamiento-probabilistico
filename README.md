@@ -66,6 +66,8 @@ Otro ejemplo es cual es la probabilidad de que una persona **use drogas**, pero 
 
 <img src="readme_img/pdrogas.svg" height="15">
 
+[Probabilidad Condicional](https://www.youtube.com/watch?v=dStF9z7tjZU)
+
 ## Teorema de Bayes
 
 El **teorema de Bayes**, en la teoría de la probabilidad, es una proposición planteada por el matemático inglés Thomas Bayes (1702-1761)​ y publicada póstumamente en 1763,​ que expresa la probabilidad condicional de un evento aleatorio _A_ dado _B_ en términos de la distribución de probabilidad condicional del evento _B_ dado _A_ y la distribución de probabilidad marginal de solo _A_.
