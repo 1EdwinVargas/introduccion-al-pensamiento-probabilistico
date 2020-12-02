@@ -229,6 +229,8 @@ _"Es el campo de estudio que le da a las computadoras la habilidad de aprender s
 
 - Batch vs online learning.
 
+[Historia de Machine learning](https://www.youtube.com/watch?v=_5BklQTGJmE&feature=emb_logo)
+
 ## Feature vectors
 
 Se utilizan para representar características simbólicas o numéricas llamadas _features._ Permiten analizar un objeto desde una perspectiva matemática.
