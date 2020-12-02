@@ -280,6 +280,12 @@ El _output_ final es un dendrograma que muestra la relación entre objetos y gru
 
 Es importante determinar qué medida de distancia vamos a utilizar y los puntos a utilizar en cada cluster (linkage criteria).
 
+Es importante mencionar al menos tres cosas super importantes relacionadas con el agrupamiento jerárquico.
+- Este enfoque es “deterministico”, es decir, que a menos que cambiemos la métrica, siempre vamos a obtener el mismo dendogram.
+- la complejidad del algoritmo es del orden O(n^2), lo cual hace que sea muy lento a medida que aumente la dimensionalidad de los datos. por eso se tiende a usar otros métodos como Kmeans.
+- Si la cantidad de datos es muy grande, el aspecto visual comienza a volverse confuso y poco atractivo.
+
+
 ## Agrupamiento K means
 
 Es un algoritmo que agrupa utilizando centroides. El algoritmo funciona asignando puntos al azar (K define el número inicial de clusters) y después:
